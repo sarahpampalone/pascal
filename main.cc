@@ -20,7 +20,7 @@ long int calc (int n, int p) {
 
 int main() {
   int value;
-  cout << "Pick a method :"
+  cout << "Pick a method :";
   cin >> value;
   cout << "Pascal's Triangle :" << endl;
   
